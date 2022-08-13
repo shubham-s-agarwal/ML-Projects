@@ -1,6 +1,6 @@
 Analysis And Implementation Of Modern Deep Learning Models For Question-Answer Classification
 
-Steps to follow:
+<b> Steps to follow <b>:
 
 1) Extract the contents from the zip - the extracted contents should have 3 folders: Data, Src, Document
 2) To execute the python code, do the following:
